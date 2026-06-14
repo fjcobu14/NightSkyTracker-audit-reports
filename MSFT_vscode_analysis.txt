@@ -1,0 +1,1 @@
+MSFT (Microsoft) stock analysis for vscode repository. MSFT is listed on NASDAQ. The vscode repository commit 9ed1033 merges main into fix/font-variation-settings-on-suggestions branch.
