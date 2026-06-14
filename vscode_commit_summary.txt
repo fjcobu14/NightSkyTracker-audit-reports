@@ -1,0 +1,1 @@
+vscode repository commit 9ed1033 summary. Commit message: Merge branch main into fix/font-variation-settings-on-suggestions. Author: Johannes Rieken. Date: June 6, 2025. 300 files changed with 931533 additions and 236082 deletions. Full SHA: 9ed10330f92962e92c6b121fd0cf6588268e89a8.
